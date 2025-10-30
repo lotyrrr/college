@@ -21,7 +21,14 @@
 
 ---
 
-## 🧩 Використані технології
+## 🧩 Структура
+/assets placeholder.txt
+
+/docs extra.md overview.md
+
+/src indeds.js
+
+index.html README.md .gitignore reflection.txt
 
 ---
 
